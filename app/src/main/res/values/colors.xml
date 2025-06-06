@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pizza_red">#D32F2F</color>
+
+    <color name="basil_green">#2E7D32</color>
+
+    <color name="cheese_yellow">#FFC107</color>
+
+    <color name="crust_brown">#8D6E63</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

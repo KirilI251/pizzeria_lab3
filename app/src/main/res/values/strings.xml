@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PizzeriaApp</string>
+
+    <string name="background_pizza_pattern">Фон з візерунком піци</string>
+
+    <string name="add_pizza_button">Додати піцу</string>
+</resources>
